@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="alltp"
+version="1.0.0"
+displayName="All TP"
+authors="Anonymous"
+description="Allows all players to use the /tp command without OP permissions. Simply type /tp just like an OP player would!"
